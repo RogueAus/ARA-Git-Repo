@@ -1,0 +1,4 @@
+respawn = "BASE";
+disabledAI = 1;
+
+respawnTemplatesWest[] = {"MenuPosition"};
