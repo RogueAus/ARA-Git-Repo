@@ -1,4 +1,6 @@
 respawn = "BASE"
 respawnDelay = 5;
-disabledAI = 1;
+
 respawnTemplatesWest[] = {"MenuPosition"};
+
+disabledAI = 1;
