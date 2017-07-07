@@ -1,3 +1,0 @@
-//regex
-1 "" !=Land_Target_Dueling_01_F !=Land_Balloon_01_water_F !="Land_Balloon_01_water_F"
-5 "" !=0.[02][05]0000 !=Land_Balloon_01_water_F !="Land_Balloon_01_water_F" !Land_Balloon_01_water_F !=1.000000 !=NetworkMessageCreateHelicopterRTD !=NetworkMessageCreateHelicopter !=ivory
