@@ -1,0 +1,9 @@
+disableChannels[] = {{0,true,true},{1,false,true},{2,false,true}};    // Disabled text and voice for global, side, and command channels. Syntax: disableChannels[] = {{channelID<number>, disableChat<bool>, disableVoice<bool>}};
+overviewText = "A Template for future ARA Missions";    // Text to be displayed below the overviewPicture on the mission selection screen when the mission is available to play.
+enableDebugConsole = 1;
+
+#include "cfgRemoteExec.hpp"
+
+class CfgFunctions {
+    #include "functions.hpp"
+};
